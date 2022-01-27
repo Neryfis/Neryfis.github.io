@@ -1,0 +1,26 @@
+#Thiago{
+    color: rgb(97, 112, 115);
+    font-size: 30px;
+    text-align: center;
+    /*background-color: rgb(146, 188, 234); */
+}
+body{
+    background-color:whitesmoke;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.lista1{
+    background-color:rgb(184, 202, 212);
+}
+
+.hyperlink {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+#foto {
+    
+    border-radius: 100px;
+}
+.imagem {
+    
+    padding: 25px 25px 25px 550px;
+}
