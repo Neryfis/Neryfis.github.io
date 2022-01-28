@@ -9,7 +9,7 @@ body{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .lista1{
-    background-color:rgb(184, 202, 212);
+  
 }
 
 .hyperlink {
@@ -17,10 +17,20 @@ body{
     text-decoration: none;
 }
 #foto {
-    
+    width: 200px;
     border-radius: 100px;
 }
 .imagem {
     
     padding: 25px 25px 25px 550px;
+}
+.me{
+    right: 100px;
+    text-align: justify;
+}
+.Tabela{
+    padding-bottom: 120px;
+    width: 1200px;
+   border: 2px solid;
+   height: 100px;
 }
