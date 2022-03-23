@@ -1,36 +1,62 @@
-#Thiago{
-    color: rgb(97, 112, 115);
-    font-size: 30px;
-    text-align: center;
-    /*background-color: rgb(146, 188, 234); */
-}
-body{
-    background-color:whitesmoke;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
-.lista1{
-  
+h1 {
+    color: aliceblue;
 }
 
-.hyperlink {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
+#header {
+    margin-top: 0;
+    height: 70px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+    border: solid 2px #C89E52;
 }
-#foto {
-    width: 200px;
-    border-radius: 100px;
+.test {
+width: 100px;
+height: 100px;
+
 }
-.imagem {
+
+.logo {
+   width: 80px;
+
+}
+
+body {
+    background-color: black;
+    margin: 0;
+}
+
+#blowfish {
+    padding-top: 100px;
+    margin: auto;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+}
+
+.blowfish_section {
+    display: flex;
+    align-items: center;
+}
+.Apresentação {
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+}
+
+.outro_bar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+}
+
+.btn-menu {
+color: white;
+background-color: black;
+font-size: 2rem;
     
-    padding: 25px 25px 25px 550px;
-}
-.me{
-    right: 100px;
-    text-align: justify;
-}
-.Tabela{
-    padding-bottom: 120px;
-    width: 1200px;
-   border: 2px solid;
-   height: 100px;
 }
