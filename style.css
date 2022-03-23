@@ -61,11 +61,12 @@ font-size: 2rem;
     
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1600px) {
     h1 {
-        font-size: 1.5rem;
+        font-size: 100%;
     }
     .blowfish_section {
+        padding-top: 0%;
         height: 500px;
     }
     #blowfish {
